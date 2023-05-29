@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "build:prod": "ng build --configuration production --base-href https://AniTang99.github.io/creatle/",
+    "build:prod": "ng build --configuration production --base-href https://anitang99.github.io/creatle/",
     "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
   },
   "private": true,
